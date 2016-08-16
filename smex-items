@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ neotree-refresh
+ package-list-packages
+ package-install
+ package-show-package-list
+ cd
+ 5x5
+ arp
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 2)
+ (package-list-packages . 2)
+ (package-show-package-list . 1)
+ (neotree-refresh . 1)
+)
